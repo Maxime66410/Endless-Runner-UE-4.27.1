@@ -47335,3 +47335,124 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.01-16.28.15:813][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.11.01-16.28.15:813][423]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2022.11.01-16.28.15:813][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.28.32:293][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle16.BP_Obstacle16
+[2022.11.01-16.28.36:847][172]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.01-16.28.36:847][172]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.01-16.28.46:750][345]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.01-16.29.05:406][476]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.01-16.29.06:035][507]LogEditorTransaction: Undo Set Location
+[2022.11.01-16.29.25:301][697]BlueprintLog: New page: Compile BP_Obstacle16
+[2022.11.01-16.29.25:432][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.11.01-16.29.25:898][733]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle166D61F3E645F0E6E9CAF24889DEC079E5.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Minivan/BP_Obstacle16.uasset'
+[2022.11.01-16.29.25:910][733]AssetCheck: New page: Asset Save: BP_Obstacle16
+[2022.11.01-16.29.25:910][733]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle16.BP_Obstacle16
+[2022.11.01-16.29.26:369][780]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.29.26:369][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.29.27:360][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle17.BP_Obstacle17
+[2022.11.01-16.29.29:173][992]LogSlate: Window 'BP_Obstacle17' being destroyed
+[2022.11.01-16.29.57:680][185]BlueprintLog: New page: Compile BP_Obstacle17
+[2022.11.01-16.29.57:771][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.11.01-16.29.58:238][229]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle1727E716BD41A995198A4FD6ADB5ADB7DC.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Minivan/BP_Obstacle17.uasset'
+[2022.11.01-16.29.58:248][229]AssetCheck: New page: Asset Save: BP_Obstacle17
+[2022.11.01-16.29.58:248][229]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle17.BP_Obstacle17
+[2022.11.01-16.29.58:723][281]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.29.58:723][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.29.59:763][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle18.BP_Obstacle18
+[2022.11.01-16.30.01:425][481]LogSlate: Window 'BP_Obstacle18' being destroyed
+[2022.11.01-16.30.34:061][101]BlueprintLog: New page: Compile BP_Obstacle18
+[2022.11.01-16.30.34:121][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.11.01-16.30.34:572][141]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle18446CEBA3422285B2D2C48498165048DC.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Minivan/BP_Obstacle18.uasset'
+[2022.11.01-16.30.34:583][141]AssetCheck: New page: Asset Save: BP_Obstacle18
+[2022.11.01-16.30.34:583][141]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle18.BP_Obstacle18
+[2022.11.01-16.30.35:144][204]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.30.35:144][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.30.36:090][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle19.BP_Obstacle19
+[2022.11.01-16.30.37:867][412]LogSlate: Window 'BP_Obstacle19' being destroyed
+[2022.11.01-16.31.09:395][950]BlueprintLog: New page: Compile BP_Obstacle19
+[2022.11.01-16.31.09:454][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.11.01-16.31.09:961][990]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle1978953B1046F219FAD9F0A48A9ABECBF7.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Minivan/BP_Obstacle19.uasset'
+[2022.11.01-16.31.09:976][990]AssetCheck: New page: Asset Save: BP_Obstacle19
+[2022.11.01-16.31.09:977][990]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle19.BP_Obstacle19
+[2022.11.01-16.31.10:309][ 23]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.31.10:309][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.31.11:156][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle20.BP_Obstacle20
+[2022.11.01-16.31.12:805][210]LogSlate: Window 'BP_Obstacle20' being destroyed
+[2022.11.01-16.31.46:212][899]BlueprintLog: New page: Compile BP_Obstacle20
+[2022.11.01-16.31.46:272][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.11.01-16.31.46:752][939]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle2047C161124B9513B586CD59847A04690D.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Minivan/BP_Obstacle20.uasset'
+[2022.11.01-16.31.46:763][939]AssetCheck: New page: Asset Save: BP_Obstacle20
+[2022.11.01-16.31.46:763][939]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Minivan/BP_Obstacle20.BP_Obstacle20
+[2022.11.01-16.31.47:153][983]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.31.47:153][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.31.47:879][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.01-16.31.47:977][ 53]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/OffroadGreen9BDB2782426C3D56CFAA508C97CF92DF.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/OffroadGreen.uasset'
+[2022.11.01-16.31.47:995][ 53]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_4_Inst760C160B49A06C8EB78A0399363F8EBB.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_4_Inst.uasset'
+[2022.11.01-16.31.48:008][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.01-16.31.48:008][ 53]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_4_Inst.Body_ncl1_4_Inst
+[2022.11.01-16.31.48:008][ 53]LogContentValidation: Display: Validating Texture2D /Game/Assets/Models/Obstacle/Vehicle/OffroadGreen.OffroadGreen
+[2022.11.01-16.31.49:816][246]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.01-16.31.49:822][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.01-16.31.49:822][246]PIE: New page: PIE session: GamePlay (1 nov. 2022 à 18:31:49)
+[2022.11.01-16.31.49:856][246]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.01-16.31.49:858][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002202s)
+[2022.11.01-16.31.49:859][246]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.01-16.31.49:860][246]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2022.11.01-16.31.49:860][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.003532s)
+[2022.11.01-16.31.49:876][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.11.01-16.31.49:878][246]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.01-16.31.49:878][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.01-16.31.49:878][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.01-16.31.49:879][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.01-16.31.49:879][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.01-16.31.49:879][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.01-16.31.49:879][246]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 1: FrontRight
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 4: BackLeft
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 5: BackRight
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 6: SideLeft
+[2022.11.01-16.31.49:886][246]LogAudioMixer: Display: 7: SideRight
+[2022.11.01-16.31.49:907][246]LogAudioMixer: Display: Using Audio Device 7.1 Game Sound (2- Teufel Gaming Headset)
+[2022.11.01-16.31.49:907][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.01-16.31.49:907][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.01-16.31.49:907][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.01-16.31.49:908][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.01-16.31.49:908][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.01-16.31.49:908][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.01-16.31.49:909][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.01-16.31.49:909][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.01-16.31.49:909][246]LogInit: FAudioDevice initialized.
+[2022.11.01-16.31.49:909][246]LogAudio: Display: Audio Device (ID: 12) registered with world 'GamePlay'.
+[2022.11.01-16.31.49:918][246]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.01-16.31.49:919][246]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.01-17.31.49
+[2022.11.01-16.31.49:919][246]LogWorld: Bringing up level for play took: 0.000382
+[2022.11.01-16.31.49:919][246]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.11.01-16.31.49:935][246]PIE: Server logged in
+[2022.11.01-16.31.49:936][246]PIE: Play in editor total start time 0,115 seconds.
+[2022.11.01-16.32.02:910][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-16.32.02:910][781]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.01-16.32.02:910][781]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-16.32.02:912][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.32.02:919][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.01-16.32.02:929][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-16.32.02:944][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-16.32.02:945][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.01-16.32.02:946][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.01-16.32.02:951][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.11.01-16.32.02:982][782]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.11.01-16.32.04:148][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.11.01-16.32.04:157][918]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay9D53F50F48298BF3EEE97182E60A7DEB.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay.umap'
+[2022.11.01-16.32.04:170][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/GamePlay_BuiltData" FILE="E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset" SILENT=true
+[2022.11.01-16.32.04:183][918]LogSavePackage: Moving 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay_BuiltDataB40FC62F416C1D831347FBBFD822566A.tmp' to 'E:/Projet Unreal Engine/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset'
+[2022.11.01-16.32.04:198][918]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.01-16.32.04:198][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
+[2022.11.01-16.32.04:198][918]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.01-16.32.05:748][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
