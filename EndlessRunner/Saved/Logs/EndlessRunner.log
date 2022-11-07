@@ -2114,3 +2114,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.07-11.15.48:137][161]LogContentBrowser: Creating deferred item: NewFolder
 [2022.11.07-11.15.48:890][248]LogContentBrowser: Attempting asset rename: NewFolder -> Sport
 [2022.11.07-11.15.48:891][248]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-11.16.39:110][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.07-11.16.39:206][240]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SedanYellow262331A44BAA8082F856F0BC3A6FD032.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/SedanYellow.uasset'
+[2022.11.07-11.16.39:215][240]AssetCheck: New page: Asset Save: SedanYellow
+[2022.11.07-11.16.39:215][240]LogContentValidation: Display: Validating Texture2D /Game/Assets/Models/Obstacle/Vehicle/SedanYellow.SedanYellow
