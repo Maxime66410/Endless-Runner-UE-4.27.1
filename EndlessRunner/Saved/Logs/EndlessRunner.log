@@ -2118,3 +2118,878 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.07-11.16.39:206][240]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SedanYellow262331A44BAA8082F856F0BC3A6FD032.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/SedanYellow.uasset'
 [2022.11.07-11.16.39:215][240]AssetCheck: New page: Asset Save: SedanYellow
 [2022.11.07-11.16.39:215][240]LogContentValidation: Display: Validating Texture2D /Game/Assets/Models/Obstacle/Vehicle/SedanYellow.SedanYellow
+[2022.11.07-11.18.21:991][453]LogContentBrowser: Deferred new asset file creation: BP_Obstacle36
+[2022.11.07-11.18.22:003][453]LogContentBrowser: Creating deferred item: BP_Obstacle36
+[2022.11.07-11.18.22:561][519]LogContentBrowser: Attempting asset rename: BP_Obstacle36 -> BP_Obstacle36
+[2022.11.07-11.18.22:578][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.07-11.18.22:585][519]LogContentBrowser: End creating deferred item BP_Obstacle36
+[2022.11.07-11.18.25:096][756]LogMetaData: Removing '/Game/Assets/Obstacle/Sport/BP_Obstacle36.SKEL_BP_Obstacle36_C' ref from Metadata '/Game/Assets/Obstacle/Sedan/BP_Obstacle36.PackageMetaData'
+[2022.11.07-11.18.25:096][756]LogMetaData: Removing '/Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36_C' ref from Metadata '/Game/Assets/Obstacle/Sedan/BP_Obstacle36.PackageMetaData'
+[2022.11.07-11.18.25:096][756]LogMetaData: Removing '/Game/Assets/Obstacle/Sport/BP_Obstacle36.SKEL_BP_Obstacle36_C:BndEvt__BP_Obstacle01_BasVehicle_K2Node_ComponentBoundEvent_2_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Assets/Obstacle/Sedan/BP_Obstacle36.PackageMetaData'
+[2022.11.07-11.18.25:096][756]LogMetaData: Removing '/Game/Assets/Obstacle/Sport/BP_Obstacle36.SKEL_BP_Obstacle36_C:BndEvt__BP_Obstacle01_VitreVehicle_K2Node_ComponentBoundEvent_3_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Assets/Obstacle/Sedan/BP_Obstacle36.PackageMetaData'
+[2022.11.07-11.18.25:096][756]LogMetaData: Removing '/Game/Assets/Obstacle/Sport/BP_Obstacle36.SKEL_BP_Obstacle36_C:UserConstructionScript' ref from Metadata '/Game/Assets/Obstacle/Sedan/BP_Obstacle36.PackageMetaData'
+[2022.11.07-11.18.25:122][756]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle3699D55F2C4FAD30F448CDAFAD15DBDE7B.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.18.25:161][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.07-11.18.25:177][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.07-11.18.25:187][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.07-11.18.25:236][756]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.18.25:236][756]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.18.26:163][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.18.27:728][993]LogSlate: Window 'BP_Obstacle36' being destroyed
+[2022.11.07-11.19.20:339][114]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.19.20:435][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.07-11.19.20:862][155]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle363863344547915401E7C7BCABF3CB95B0.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.19.20:869][155]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.19.20:869][155]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.19.32:556][545]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.19.32:580][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.07-11.19.33:014][581]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36FFDB30254023E39769AA92890E6488B1.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.19.33:022][581]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.19.33:022][581]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.19.51:912][802]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.07-11.20.53:569][ 56]LogEditorTransaction: Undo Edit X
+[2022.11.07-11.21.33:313][723]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle364835D06441C0BFCF8D5FE38C8D1F885B.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.21.33:322][723]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.21.33:322][723]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.23.59:458][ 63]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.23.59:663][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.07-11.24.00:069][100]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36B75287D84A1FD871CBEB378606936B11.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.24.00:076][100]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.24.00:076][100]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.24.14:755][846]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36290BF4134FA455357E5664BACBFD7150.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.24.14:762][846]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.24.14:763][846]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.24.24:631][  1]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.24.24:665][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.07-11.24.25:105][ 39]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36AB23D8C644B76F9EBFE824A6FBCC5115.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.24.25:112][ 39]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.24.25:112][ 39]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.24.34:442][116]Cmd: DELETE
+[2022.11.07-11.24.34:442][116]Cmd: ACTOR DELETE
+[2022.11.07-11.24.34:443][116]LogEditorActor: Deleted Actor: BP_Obstacle36_C
+[2022.11.07-11.24.34:458][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.07-11.24.34:460][116]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.11.07-11.24.51:993][197]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle3655105DB846D7FA1C0CB207A461737FAA.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.24.52:000][197]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.24.52:000][197]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.24.52:330][236]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.24.52:367][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.07-11.24.53:062][303]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle362751B0654AC86BB32C95D7B0D8891BDE.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.24.53:069][303]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.24.53:069][303]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.25.14:141][805]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.25.14:224][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.07-11.25.14:482][830]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle365FA6DEF14BF0BF70052AABA204B043B6.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.25.14:490][830]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.25.14:490][830]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.25.18:384][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.07-11.25.18:388][279]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay5CCCC70C41B07E137C6168A73EA1B431.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay.umap'
+[2022.11.07-11.25.18:396][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/GamePlay_BuiltData" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset" SILENT=true
+[2022.11.07-11.25.18:400][279]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay_BuiltData5F1FC05242B94B4F86D1228D24739AB8.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset'
+[2022.11.07-11.25.18:407][279]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-11.25.18:407][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
+[2022.11.07-11.25.18:407][279]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.07-11.25.19:677][432]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.07-11.25.19:681][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.07-11.25.19:681][432]PIE: New page: PIE session: GamePlay (7 nov. 2022 à 13:25:19)
+[2022.11.07-11.25.19:705][432]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.25.19:706][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001380s)
+[2022.11.07-11.25.19:707][432]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-11.25.19:707][432]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.11.07-11.25.19:707][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002354s)
+[2022.11.07-11.25.19:722][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.07-11.25.19:722][432]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-11.25.19:722][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-11.25.19:723][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-11.25.19:723][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-11.25.19:723][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.07-11.25.19:723][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.07-11.25.19:723][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.07-11.25.19:723][432]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-11.25.19:728][432]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.07-11.25.19:728][432]LogAudioMixer: Display: 1: FrontRight
+[2022.11.07-11.25.19:731][432]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2022.11.07-11.25.19:731][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-11.25.19:731][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-11.25.19:731][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-11.25.19:732][432]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-11.25.19:732][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-11.25.19:732][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-11.25.19:732][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-11.25.19:732][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.07-11.25.19:732][432]LogInit: FAudioDevice initialized.
+[2022.11.07-11.25.19:732][432]LogAudio: Display: Audio Device (ID: 9) registered with world 'GamePlay'.
+[2022.11.07-11.25.19:738][432]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-11.25.19:738][432]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-12.25.19
+[2022.11.07-11.25.19:738][432]LogWorld: Bringing up level for play took: 0.000292
+[2022.11.07-11.25.19:738][432]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.11.07-11.25.19:746][432]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-11.25.19:746][432]PIE: Server logged in
+[2022.11.07-11.25.19:747][432]PIE: Play in editor total start time 0,067 seconds.
+[2022.11.07-11.25.30:324][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-11.25.32:356][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-11.25.32:356][911]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.25.32:356][911]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.25.32:357][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.25.32:361][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-11.25.32:363][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.25.32:376][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-11.25.32:377][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-11.25.32:377][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-11.25.32:381][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.07-11.25.32:422][915]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.11.07-11.25.42:680][ 18]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_78A4D248C42379996BC1A7B84B294B715.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.uasset'
+[2022.11.07-11.25.42:738][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.07-11.25.42:756][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.07-11.25.42:768][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.07-11.25.42:793][ 18]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/fab_Sport_body86809E3646490FEC930A56BA61E60198.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/fab_Sport_body.uasset'
+[2022.11.07-11.25.42:813][ 18]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36BA365674470A02BB312CA9B393A133F0.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.25.42:868][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-11.25.42:868][ 18]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Models/Obstacle/Vehicle/fab_Sport_body.fab_Sport_body
+[2022.11.07-11.25.42:868][ 18]LogContentValidation: Display: Validating Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.25.42:868][ 18]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.25.44:819][214]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body.Body
+[2022.11.07-11.25.44:820][214]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: F686C427D531910965D8B97202164E2DF732F44E), compiling. 
+[2022.11.07-11.25.44:830][214]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.07-11.25.44:830][214]LogShaderCompilers: Display: Total job queries 484, among them cache hits 388 (80.17%)
+[2022.11.07-11.25.44:830][214]LogShaderCompilers: Display: Tracking 76 distinct input hashes that result in 44 distinct outputs (57.89%)
+[2022.11.07-11.25.44:830][214]LogShaderCompilers: Display: RAM used: 0.27 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.11.07-11.25.44:830][214]LogShaderCompilers: Display: ================================================
+[2022.11.07-11.25.44:857][214]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 87C8FE3B37BCFCC53A942B2223E930AA7C60EB06), compiling. 
+[2022.11.07-11.25.44:858][214]LogMaterial: Display: Missing cached shadermap for Body in PCD3D_SM5, Default, SM5 (DDC key hash: 0DC8899DE8B1BF8BCAAB960DBA3C16587A240EA2), compiling. 
+[2022.11.07-11.25.44:859][214]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F4A61F1A7658439B8DF9B52762B2332F3F88EC2), compiling. 
+[2022.11.07-11.25.44:860][214]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 46F597992287A6F46B142652B8A0CD2BDD35DBE7), compiling. 
+[2022.11.07-11.25.44:860][214]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B2246D863767A5283D0F50FF663BE71B2022EC35), compiling. 
+[2022.11.07-11.25.44:861][214]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7819B67285B105B5A2EBC8FE6A56F0753E8283E2), compiling. 
+[2022.11.07-11.25.44:869][214]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.25.44:869][214]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.25.44:869][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.25.44:902][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.25.47:887][568]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.25.47:887][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.25.49:633][772]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.25.49:659][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.07-11.25.50:012][801]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle365A08B54A4BE94DF2D9A23AA81AC2F173.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.25.50:019][801]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.25.50:019][801]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.25.52:021][ 22]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.25.52:022][ 22]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 466966EFE682AF633E7ED286E30A029F42F93D5D), compiling. 
+[2022.11.07-11.25.52:027][ 22]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.52:055][ 22]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: A8865CC3D18004C840FFD809076318A2A8E832F4), compiling. 
+[2022.11.07-11.25.52:056][ 22]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E9C306F815DC68CF34C93E5307DCE32C293ECD8E), compiling. 
+[2022.11.07-11.25.52:057][ 22]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 27067788F87BD30970EA40B99CA59183B4F6AC13), compiling. 
+[2022.11.07-11.25.52:065][ 22]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.52:090][ 23]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.52:983][128]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.25.53:155][143]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.11.07-11.25.53:155][143]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.11.07-11.25.53:155][143]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.11.07-11.25.53:155][143]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.25.54:422][260]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D8A04C5576C1A8779387162591FD9AF8134BB2A), compiling. 
+[2022.11.07-11.25.54:423][260]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.54:453][261]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.55:303][359]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.25.55:369][367]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.11.07-11.25.55:369][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.11.07-11.25.55:369][367]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.11.07-11.25.55:369][367]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_6.MaterialExpressionMaterialFunctionCall_0"')'
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_8.MaterialExpressionMultiply_3"')'
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_4.MaterialExpressionTextureSample_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_5.MaterialExpressionScalarParameter_0"')'
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:445][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_7.MaterialExpressionScalarParameter_1"',InputName="Hue Shift Percentage"))'
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_3.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_9.MaterialExpressionVectorParameter_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:446][376]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.Body"''
+[2022.11.07-11.25.55:449][376]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 24650E9A97C292F1A35393D05AB86968ADD62EA5), compiling. 
+[2022.11.07-11.25.55:451][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6465FA2B9E4703AD59F83D328E48555BB336A33A), compiling. 
+[2022.11.07-11.25.55:451][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 174C713EC05438D5B043F85C4D3FB854ABAF2CD9), compiling. 
+[2022.11.07-11.25.55:452][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F632AD89C614C7A216C14CFFD248A484F3D95D2), compiling. 
+[2022.11.07-11.25.55:453][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F80C6559346907A3D4C65B7F22FF3349D5D48E42), compiling. 
+[2022.11.07-11.25.55:454][376]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.25.55:472][378]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.11.07-11.25.55:472][378]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.11.07-11.25.55:472][378]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.11.07-11.25.55:472][378]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.25.59:081][696]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: AF000513CDC32124D099A3EEF801223CBCF84EAF), compiling. 
+[2022.11.07-11.25.59:083][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: B924E72960EFDC6627647800A0AAACA45A6A4513), compiling. 
+[2022.11.07-11.25.59:083][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B297AF8524350A9B4913663FC923C6C35D59FC4E), compiling. 
+[2022.11.07-11.25.59:084][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C63164D8BDFFD9E21C36D20BC88EDC1B7EE73F8), compiling. 
+[2022.11.07-11.25.59:085][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F4CF97F11F349930EE34E73059B8BF7F77AAC60A), compiling. 
+[2022.11.07-11.25.59:087][696]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.25.59:087][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.25.59:087][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.25.59:091][697]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.59:095][698]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.25.59:099][698]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.25.59:994][789]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.07-11.25.59:994][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.25.59:994][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.00:062][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.01:013][849]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: D549A7F683039BD1C751DE36128ACBBBCAD67C82), compiling. 
+[2022.11.07-11.26.01:014][849]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: FCB2DECCEF4E51ED3CD0B29FB1E9B0AEB67F96A3), compiling. 
+[2022.11.07-11.26.01:016][849]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.01:016][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.01:016][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.01:020][850]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.26.01:023][851]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.01:028][851]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.26.01:921][952]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.07-11.26.01:921][952]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.01:921][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.02:004][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.02:345][  3]LogEditorTransaction: Undo Create Pin Link
+[2022.11.07-11.26.02:346][  3]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E96159FA78F9316CBF0B40EBE233464504E7C6B), compiling. 
+[2022.11.07-11.26.02:348][  3]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E582BA532D12531A09448A34C827A5B2EA8410D2), compiling. 
+[2022.11.07-11.26.02:349][  3]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 786AAA52D94254DB57C1992E7B64C3B18A49B355), compiling. 
+[2022.11.07-11.26.02:353][  3]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.02:353][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.02:353][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.02:424][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.02:585][ 11]LogEditorTransaction: Undo Create Pin Link
+[2022.11.07-11.26.02:586][ 11]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 9410AB4B831D6A80A7BA54A4399182606F6CF376), compiling. 
+[2022.11.07-11.26.02:587][ 11]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E926DAA775AFE15756A079F282C462A4788952DD), compiling. 
+[2022.11.07-11.26.02:590][ 11]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.02:654][ 13]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.11.07-11.26.02:654][ 13]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.11.07-11.26.02:654][ 13]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.11.07-11.26.02:654][ 13]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.07-11.26.07:557][506]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: A8B6BF905D1E5034A70E9088FE8D0E21A4946E20), compiling. 
+[2022.11.07-11.26.07:560][506]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.07:560][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.07:560][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.07:574][508]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.07-11.26.07:574][508]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.07:574][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.11.07-11.26.07:586][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.09:647][659]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 57E7A855CAA776CF9B3C77D37F6B17661D741092), compiling. 
+[2022.11.07-11.26.09:648][659]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: B4066C6797F853612654B412B349240E9C76D3AA), compiling. 
+[2022.11.07-11.26.09:651][659]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.09:651][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.09:651][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.09:664][661]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.07-11.26.09:664][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.09:664][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.07-11.26.09:673][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.11:425][819]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 816858190A8270E23A99922B0D2E9FBA77AB4653), compiling. 
+[2022.11.07-11.26.11:428][819]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.11:428][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.11:428][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.11:432][820]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.26.11:435][821]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 3
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 2
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 1
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.11:449][822]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.07-11.26.12:320][918]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.12:320][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.12:320][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.12:411][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.13:002][998]LogMaterialEditor: Saving and Compiling material Body_ncl1_7
+[2022.11.07-11.26.13:214][998]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: D822E49E877E73C02E96D1C37689626F108D7B24), compiling. 
+[2022.11.07-11.26.13:234][998]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 4EAE730D6AE7AD562E3DF61B76EC4A808AF8350E), compiling. 
+[2022.11.07-11.26.13:265][998]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 6
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 5
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 3
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 2
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2022.11.07-11.26.13:269][998]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.11.07-11.26.13:274][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.07-11.26.13:600][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.07-11.26.13:828][998]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7FD55836F4D53CB017D7F59BEF9C19B7E.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.uasset'
+[2022.11.07-11.26.13:837][998]AssetCheck: New page: Asset Save: Body_ncl1_7
+[2022.11.07-11.26.13:837][998]LogContentValidation: Display: Validating Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.13:838][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.20:997][749]LogTexture: Display: Building textures: Sport_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.07-11.26.20:997][749]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.20:997][749]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.20:998][749]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: FA3A52FDA6527843512559C4F09496504BD452AC), compiling. 
+[2022.11.07-11.26.21:000][749]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D959712FD992FDBA54E082156D45E32BE3D501B), compiling. 
+[2022.11.07-11.26.21:002][749]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E89434CA1713ADF27F6284FCD7E9AB7B4F78706F), compiling. 
+[2022.11.07-11.26.21:004][749]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.21:004][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.21:004][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.21:035][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.26:678][372]LogTexture: Display: Building textures: Sport_Glossiness (OODLE_AutoDXT, 2048X2048)
+[2022.11.07-11.26.26:678][372]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.26:678][372]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.26:679][372]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A1E98EB16EC0D7BC4901579110AF830282FCD53), compiling. 
+[2022.11.07-11.26.26:680][372]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: FA0E36D492664EC94AFB0781008DF336A6EEC6C4), compiling. 
+[2022.11.07-11.26.26:682][372]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: C3B1898F10C51B090784D80F1A1951EBF6CEBC0D), compiling. 
+[2022.11.07-11.26.26:685][372]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.26:685][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.26:685][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.26:716][373]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.26:716][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.26:716][373]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.26:717][373]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.26:717][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.26:717][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.31:991][931]LogTexture: Display: Building textures: SportRed (OODLE_AutoDXT, 2048X2048)
+[2022.11.07-11.26.31:991][931]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.31:991][931]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.26.31:992][931]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 6930BE60D80C1E51895BD5D5BFBA8F5DA2EADA10), compiling. 
+[2022.11.07-11.26.31:994][931]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E749EE4284D211D1753C00549B6AF932B1783F8), compiling. 
+[2022.11.07-11.26.31:996][931]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: FA658AA1A42004FA5CA6301E195F421BCD1EF61E), compiling. 
+[2022.11.07-11.26.31:998][931]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.31:998][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.31:998][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.32:026][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.33:163][ 33]LogMaterialEditor: Saving and Compiling material Body_ncl1_7
+[2022.11.07-11.26.33:372][ 33]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C81E28408410666ACB6EB8C9DBBE5A6FABACFED), compiling. 
+[2022.11.07-11.26.33:388][ 33]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: F89DB4E8FE306EB859FDA2227675C2DB69B1D607), compiling. 
+[2022.11.07-11.26.33:406][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.07-11.26.33:543][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.07-11.26.33:564][ 33]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7B37684E34E071BA1AAE2CDA63B57723D.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.uasset'
+[2022.11.07-11.26.33:570][ 33]AssetCheck: New page: Asset Save: Body_ncl1_7
+[2022.11.07-11.26.33:570][ 33]LogContentValidation: Display: Validating Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.33:571][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.41:138][924]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 6425C03464479A8E496B56BB48D74DEB907D0D0B), compiling. 
+[2022.11.07-11.26.41:140][924]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: F85338D8B57E363D377D7B81F72B78858887FB94), compiling. 
+[2022.11.07-11.26.41:141][924]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.41:141][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.41:141][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.41:154][926]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.41:154][926]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.41:154][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.41:162][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.43:254][178]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 48567547E24FBC3191E14495AADF3B8E60127B3F), compiling. 
+[2022.11.07-11.26.43:256][178]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 37C0A50C21F95FAA5A2FFBB3223BFC2BACB3C10F), compiling. 
+[2022.11.07-11.26.43:258][178]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.43:258][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.43:258][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.43:271][180]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.43:271][180]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.43:271][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.43:279][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.45:163][407]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E49BE46BCA6898953D226DD0E6E8DE459449530A), compiling. 
+[2022.11.07-11.26.45:165][407]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: E907914A12C722AB179FFD1DFCC63DEF01D6D3C2), compiling. 
+[2022.11.07-11.26.45:166][407]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.45:166][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.45:166][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.45:179][409]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.45:179][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.45:179][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.45:187][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.46:796][603]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 5ED2A0E079AF9E9675A03E1D144537FC8CC7F3B9), compiling. 
+[2022.11.07-11.26.46:798][603]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: D231E3706373EB3A0AA001583E43C7F029CC6D80), compiling. 
+[2022.11.07-11.26.46:800][603]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.46:800][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.46:800][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.46:812][605]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.46:812][605]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.46:812][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.46:821][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.49:754][958]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: D0EACDA9245CEE9CAD5A626F4031237D9EC33462), compiling. 
+[2022.11.07-11.26.49:756][958]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CED5C1B96BCAE9456561BD5C4197C69DE06F5F1), compiling. 
+[2022.11.07-11.26.49:758][958]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.49:758][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.49:758][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.49:771][960]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.49:771][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.49:771][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.49:779][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.50:254][ 18]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 47802A10A2A26F1BD296083A67E8A4E632FD72E6), compiling. 
+[2022.11.07-11.26.50:256][ 18]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BA5F4E7361977B32C0802247B166A1BD1285D09), compiling. 
+[2022.11.07-11.26.50:258][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.26.50:258][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.50:258][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.50:271][ 20]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.50:271][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.50:271][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.50:279][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.26.51:692][188]LogMaterialEditor: Saving and Compiling material Body_ncl1_7
+[2022.11.07-11.26.51:903][188]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F56041F5DE16DDD2F888578FD80686168B8D7B0), compiling. 
+[2022.11.07-11.26.51:927][188]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: EE756661FE087095EB0474A0BE11B96323FCDDAE), compiling. 
+[2022.11.07-11.26.51:944][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.07-11.26.52:074][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.07-11.26.52:104][188]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7A1538566483D40AB67CE9E937D05B6C7.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.uasset'
+[2022.11.07-11.26.52:112][188]AssetCheck: New page: Asset Save: Body_ncl1_7
+[2022.11.07-11.26.52:112][188]LogContentValidation: Display: Validating Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.26.52:112][188]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.21:542][919]LogEditorFactories: Performing atomic reimport of [D:/SMI/Downloads/generic-passenger-car-pack/textures/SportRed.png]
+[2022.11.07-11.27.21:544][919]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/SMI/Downloads/generic-passenger-car-pack/textures/SportRed.png)
+[2022.11.07-11.27.21:619][919]LogTexture: Display: Building textures: SportRed (OODLE_AutoDXT, 2048X2048)
+[2022.11.07-11.27.21:690][919]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.27.21:691][919]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.07-11.27.21:691][919]LogEditorFactories: -- imported successfully
+[2022.11.07-11.27.32:020][887]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: F7437A2053833187BFAD5B7DE6B402C67909D52B), compiling. 
+[2022.11.07-11.27.32:022][887]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E0C0D04D40549C2CD213FBE2673FBD817A3B7CB), compiling. 
+[2022.11.07-11.27.32:024][887]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.32:024][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.32:024][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.32:037][889]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.32:037][889]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.32:037][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.32:045][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.33:812][102]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C55707DE910BC9BD9031C8374F5E25A3E2511AC), compiling. 
+[2022.11.07-11.27.33:814][102]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 28AE0863CF42DC3EA4D09E9CEA8085EFBC3647B9), compiling. 
+[2022.11.07-11.27.33:815][102]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.33:815][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.33:815][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.33:828][104]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.33:828][104]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.33:828][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.33:836][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.36:554][431]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 941E422BA262E0544B7C77BBCEA2475349520C97), compiling. 
+[2022.11.07-11.27.36:556][431]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 03D3ABFB790DC42733F9D9F481A9A014B3460F1B), compiling. 
+[2022.11.07-11.27.36:558][431]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.36:558][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.36:558][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.36:571][433]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.36:571][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.36:571][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.36:579][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.38:262][636]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: AAAD9F20C7D3F2940EB819FBA36075519E5C6D4E), compiling. 
+[2022.11.07-11.27.38:265][636]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 21472F076F19DECE5AD6CAA9296C1C784AB86987), compiling. 
+[2022.11.07-11.27.38:266][636]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.38:266][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.38:266][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.38:279][638]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.38:279][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.38:279][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.38:287][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.40:104][857]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 7305EAD48A3CA59B7B257DCC951E771994453D36), compiling. 
+[2022.11.07-11.27.40:106][857]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: F9B01523E9330072FF0C9B899515FAB87090EF17), compiling. 
+[2022.11.07-11.27.40:108][857]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.40:108][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.40:108][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.40:121][859]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.40:121][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.40:121][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.40:130][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.41:305][  1]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E26AA48361FEEBA873A500BBE8A1A8FEAD88D16), compiling. 
+[2022.11.07-11.27.41:307][  1]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: CF4B3CB96781BA283E9619506E5F1AF5A1B97956), compiling. 
+[2022.11.07-11.27.41:308][  1]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.07-11.27.41:309][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.41:309][  1]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.41:321][  3]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.41:321][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.41:321][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.41:330][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.42:794][178]LogMaterialEditor: Saving and Compiling material Body_ncl1_7
+[2022.11.07-11.27.43:008][178]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 413527EFFC41CCADCCA5528B7D46AFE684A59051), compiling. 
+[2022.11.07-11.27.43:024][178]LogMaterial: Display: Missing cached shadermap for Body_ncl1_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 68E36D64273AB89F99E80E94A1663D30F2D5874B), compiling. 
+[2022.11.07-11.27.43:045][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.07-11.27.43:178][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.07-11.27.43:212][178]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_74B607D7D48EFF32B65B53C96ED5D96CB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.uasset'
+[2022.11.07-11.27.43:219][178]AssetCheck: New page: Asset Save: Body_ncl1_7
+[2022.11.07-11.27.43:219][178]LogContentValidation: Display: Validating Material /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7.Body_ncl1_7
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.07-11.27.43:220][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.07-11.27.56:389][695]LogContentBrowser: Deferred new asset file creation: Body_ncl1_7_Inst
+[2022.11.07-11.27.56:401][695]LogContentBrowser: Creating deferred item: Body_ncl1_7_Inst
+[2022.11.07-11.27.56:936][755]LogContentBrowser: Attempting asset rename: Body_ncl1_7_Inst -> Body_ncl1_7_Inst
+[2022.11.07-11.27.56:937][755]LogContentBrowser: End creating deferred item Body_ncl1_7_Inst
+[2022.11.07-11.27.57:104][774]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst.Body_ncl1_7_Inst
+[2022.11.07-11.27.57:169][774]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2022.11.07-11.28.01:300][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.07-11.28.01:314][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-11.28.01:318][259]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7_Inst64BE1D2A480A46B54CF9F4AE1DC9779B.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst.uasset'
+[2022.11.07-11.28.01:327][259]AssetCheck: New page: Asset Save: Body_ncl1_7_Inst
+[2022.11.07-11.28.01:327][259]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst.Body_ncl1_7_Inst
+[2022.11.07-11.28.02:060][341]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.02:060][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.10:565][228]LogContentBrowser: Deferred new asset file creation: Body_ncl1_7_Inst1
+[2022.11.07-11.28.10:580][228]LogContentBrowser: Creating deferred item: Body_ncl1_7_Inst1
+[2022.11.07-11.28.10:759][245]LogContentBrowser: Attempting asset rename: Body_ncl1_7_Inst1 -> Body_ncl1_7_Inst1
+[2022.11.07-11.28.10:759][245]LogContentBrowser: End creating deferred item Body_ncl1_7_Inst1
+[2022.11.07-11.28.10:921][263]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst1.Body_ncl1_7_Inst1
+[2022.11.07-11.28.15:586][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.07-11.28.15:601][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.07-11.28.15:605][793]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7_Inst12B1A2BBA4D5C044D2461D2B429F41DFB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst1.uasset'
+[2022.11.07-11.28.15:612][793]AssetCheck: New page: Asset Save: Body_ncl1_7_Inst1
+[2022.11.07-11.28.15:612][793]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst1.Body_ncl1_7_Inst1
+[2022.11.07-11.28.18:095][ 69]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.18:095][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.21:605][462]LogContentBrowser: Deferred new asset file creation: Body_ncl1_7_Inst2
+[2022.11.07-11.28.21:624][462]LogContentBrowser: Creating deferred item: Body_ncl1_7_Inst2
+[2022.11.07-11.28.21:827][482]LogContentBrowser: Attempting asset rename: Body_ncl1_7_Inst2 -> Body_ncl1_7_Inst2
+[2022.11.07-11.28.21:828][482]LogContentBrowser: End creating deferred item Body_ncl1_7_Inst2
+[2022.11.07-11.28.21:992][500]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst2.Body_ncl1_7_Inst2
+[2022.11.07-11.28.25:844][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.07-11.28.25:859][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.07-11.28.25:863][941]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7_Inst26A4E9C44457D576A3198DBB1267A99E4.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst2.uasset'
+[2022.11.07-11.28.25:871][941]AssetCheck: New page: Asset Save: Body_ncl1_7_Inst2
+[2022.11.07-11.28.25:871][941]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst2.Body_ncl1_7_Inst2
+[2022.11.07-11.28.26:446][  2]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.26:446][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.29:770][373]LogContentBrowser: Deferred new asset file creation: Body_ncl1_7_Inst3
+[2022.11.07-11.28.29:786][373]LogContentBrowser: Creating deferred item: Body_ncl1_7_Inst3
+[2022.11.07-11.28.30:072][403]LogContentBrowser: Attempting asset rename: Body_ncl1_7_Inst3 -> Body_ncl1_7_Inst3
+[2022.11.07-11.28.30:073][403]LogContentBrowser: End creating deferred item Body_ncl1_7_Inst3
+[2022.11.07-11.28.30:235][421]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst3.Body_ncl1_7_Inst3
+[2022.11.07-11.28.36:232][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.07-11.28.36:245][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.07-11.28.36:249][124]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7_Inst3BD17F066404049CDA91F88A93972157C.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst3.uasset'
+[2022.11.07-11.28.36:256][124]AssetCheck: New page: Asset Save: Body_ncl1_7_Inst3
+[2022.11.07-11.28.36:256][124]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst3.Body_ncl1_7_Inst3
+[2022.11.07-11.28.36:751][183]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.36:751][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.40:618][595]LogContentBrowser: Deferred new asset file creation: Body_ncl1_7_Inst4
+[2022.11.07-11.28.40:629][595]LogContentBrowser: Creating deferred item: Body_ncl1_7_Inst4
+[2022.11.07-11.28.40:938][627]LogContentBrowser: Attempting asset rename: Body_ncl1_7_Inst4 -> Body_ncl1_7_Inst4
+[2022.11.07-11.28.40:939][627]LogContentBrowser: End creating deferred item Body_ncl1_7_Inst4
+[2022.11.07-11.28.41:118][647]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst4.Body_ncl1_7_Inst4
+[2022.11.07-11.28.46:103][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.07-11.28.46:117][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.07-11.28.46:121][221]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Body_ncl1_7_Inst49383DDAD4A3A01FC5C95349A26E49DCB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst4.uasset'
+[2022.11.07-11.28.46:129][221]AssetCheck: New page: Asset Save: Body_ncl1_7_Inst4
+[2022.11.07-11.28.46:129][221]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7_Inst4.Body_ncl1_7_Inst4
+[2022.11.07-11.28.46:949][309]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.46:949][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.50:424][695]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.28.50:449][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.07-11.28.51:172][762]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.51:172][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.51:459][787]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.28.51:459][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.28.56:930][386]LogContentBrowser: Deferred new asset file creation: BP_Obstacle37
+[2022.11.07-11.28.56:938][386]LogContentBrowser: Creating deferred item: BP_Obstacle37
+[2022.11.07-11.28.57:200][414]LogContentBrowser: Attempting asset rename: BP_Obstacle37 -> BP_Obstacle37
+[2022.11.07-11.28.57:219][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.07-11.28.57:227][414]LogContentBrowser: End creating deferred item BP_Obstacle37
+[2022.11.07-11.28.57:351][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle37.BP_Obstacle37
+[2022.11.07-11.29.13:051][134]BlueprintLog: New page: Compile BP_Obstacle37
+[2022.11.07-11.29.13:077][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.07-11.29.13:464][174]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle3732B9720D438BE6996777D488D54D77EA.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle37.uasset'
+[2022.11.07-11.29.13:472][174]AssetCheck: New page: Asset Save: BP_Obstacle37
+[2022.11.07-11.29.13:472][174]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle37.BP_Obstacle37
+[2022.11.07-11.29.13:947][227]LogSlate: Window 'BP_Obstacle37' being destroyed
+[2022.11.07-11.29.14:024][227]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.29.14:024][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.29.14:863][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.29.19:758][831]BlueprintLog: New page: Compile BP_Obstacle36
+[2022.11.07-11.29.19:783][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.07-11.29.20:220][868]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle36010B54024CB58D8030EBEB93AE3AC104.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle36.uasset'
+[2022.11.07-11.29.20:227][868]AssetCheck: New page: Asset Save: BP_Obstacle36
+[2022.11.07-11.29.20:227][868]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle36.BP_Obstacle36
+[2022.11.07-11.29.20:533][905]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.29.20:533][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.29.22:912][149]LogContentBrowser: Deferred new asset file creation: BP_Obstacle38
+[2022.11.07-11.29.22:921][149]LogContentBrowser: Creating deferred item: BP_Obstacle38
+[2022.11.07-11.29.23:190][178]LogContentBrowser: Attempting asset rename: BP_Obstacle38 -> BP_Obstacle38
+[2022.11.07-11.29.23:208][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.07-11.29.23:214][178]LogContentBrowser: End creating deferred item BP_Obstacle38
+[2022.11.07-11.29.23:321][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle38.BP_Obstacle38
+[2022.11.07-11.29.28:869][741]BlueprintLog: New page: Compile BP_Obstacle38
+[2022.11.07-11.29.28:894][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.07-11.29.29:309][778]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle38EC1FA6DE46972EFCF93DA0BFB8D90C93.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle38.uasset'
+[2022.11.07-11.29.29:318][778]AssetCheck: New page: Asset Save: BP_Obstacle38
+[2022.11.07-11.29.29:318][778]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle38.BP_Obstacle38
+[2022.11.07-11.29.30:017][858]LogSlate: Window 'BP_Obstacle38' being destroyed
+[2022.11.07-11.29.30:045][858]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.29.30:045][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.29.32:173][ 81]LogContentBrowser: Deferred new asset file creation: BP_Obstacle39
+[2022.11.07-11.29.32:190][ 81]LogContentBrowser: Creating deferred item: BP_Obstacle39
+[2022.11.07-11.29.32:400][103]LogContentBrowser: Attempting asset rename: BP_Obstacle39 -> BP_Obstacle39
+[2022.11.07-11.29.32:418][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.07-11.29.32:424][103]LogContentBrowser: End creating deferred item BP_Obstacle39
+[2022.11.07-11.29.32:525][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle39.BP_Obstacle39
+[2022.11.07-11.29.37:089][552]BlueprintLog: New page: Compile BP_Obstacle39
+[2022.11.07-11.29.37:114][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.07-11.29.37:485][583]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle39971C72CF40AF7866516660A07166DAEE.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle39.uasset'
+[2022.11.07-11.29.37:493][583]AssetCheck: New page: Asset Save: BP_Obstacle39
+[2022.11.07-11.29.37:493][583]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle39.BP_Obstacle39
+[2022.11.07-11.29.37:952][634]LogSlate: Window 'BP_Obstacle39' being destroyed
+[2022.11.07-11.29.37:984][634]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.29.37:984][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.29.40:186][874]LogContentBrowser: Deferred new asset file creation: BP_Obstacle40
+[2022.11.07-11.29.40:194][874]LogContentBrowser: Creating deferred item: BP_Obstacle40
+[2022.11.07-11.29.40:400][894]LogContentBrowser: Attempting asset rename: BP_Obstacle40 -> BP_Obstacle40
+[2022.11.07-11.29.40:418][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.07-11.29.40:424][894]LogContentBrowser: End creating deferred item BP_Obstacle40
+[2022.11.07-11.29.40:526][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle40.BP_Obstacle40
+[2022.11.07-11.29.45:607][396]BlueprintLog: New page: Compile BP_Obstacle40
+[2022.11.07-11.29.45:632][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.07-11.29.46:142][445]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_Obstacle40F30DDA854D918CBDF5B9108B664A79A8.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Obstacle/Sport/BP_Obstacle40.uasset'
+[2022.11.07-11.29.46:150][445]AssetCheck: New page: Asset Save: BP_Obstacle40
+[2022.11.07-11.29.46:150][445]LogContentValidation: Display: Validating Blueprint /Game/Assets/Obstacle/Sport/BP_Obstacle40.BP_Obstacle40
+[2022.11.07-11.29.46:847][520]LogSlate: Window 'BP_Obstacle40' being destroyed
+[2022.11.07-11.29.46:884][520]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.29.46:885][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.29.54:747][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.07-11.29.54:761][377]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.07-11.30.23:058][490]BlueprintLog: New page: Compile BP_LevelFloor
+[2022.11.07-11.30.23:088][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.07-11.30.23:554][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/BP_LevelFloor" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Items/BP_LevelFloor.uasset" SILENT=true
+[2022.11.07-11.30.23:568][528]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/BP_LevelFloor8283CB3C4287F980C3C33996126DCA6A.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Items/BP_LevelFloor.uasset'
+[2022.11.07-11.30.23:577][528]AssetCheck: New page: Asset Save: BP_LevelFloor
+[2022.11.07-11.30.23:577][528]LogContentValidation: Display: Validating Blueprint /Game/Assets/Items/BP_LevelFloor.BP_LevelFloor
+[2022.11.07-11.30.24:328][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.07-11.30.24:332][611]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay8BE845094804B042A81A9096FF3D6254.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay.umap'
+[2022.11.07-11.30.24:338][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/GamePlay_BuiltData" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset" SILENT=true
+[2022.11.07-11.30.24:344][611]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay_BuiltData504A7470467987211F224DAC91AE3376.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset'
+[2022.11.07-11.30.24:350][611]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-11.30.24:350][611]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
+[2022.11.07-11.30.24:350][611]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.07-11.30.25:204][714]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.07-11.30.25:207][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.07-11.30.25:207][714]PIE: New page: PIE session: GamePlay (7 nov. 2022 à 13:30:25)
+[2022.11.07-11.30.25:234][714]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.30.25:235][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001407s)
+[2022.11.07-11.30.25:236][714]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-11.30.25:236][714]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2022.11.07-11.30.25:236][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002353s)
+[2022.11.07-11.30.25:252][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.07-11.30.25:253][714]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-11.30.25:253][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-11.30.25:253][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.07-11.30.25:253][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.07-11.30.25:253][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.07-11.30.25:253][714]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-11.30.25:258][714]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.07-11.30.25:258][714]LogAudioMixer: Display: 1: FrontRight
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-11.30.25:262][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-11.30.25:262][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-11.30.25:263][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-11.30.25:263][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.07-11.30.25:263][714]LogInit: FAudioDevice initialized.
+[2022.11.07-11.30.25:263][714]LogAudio: Display: Audio Device (ID: 10) registered with world 'GamePlay'.
+[2022.11.07-11.30.25:269][714]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-11.30.25:269][714]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-12.30.25
+[2022.11.07-11.30.25:269][714]LogWorld: Bringing up level for play took: 0.000285
+[2022.11.07-11.30.25:269][714]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.11.07-11.30.25:277][714]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-11.30.25:277][714]PIE: Server logged in
+[2022.11.07-11.30.25:278][714]PIE: Play in editor total start time 0,072 seconds.
+[2022.11.07-11.30.32:119][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-11.30.37:127][133]LogNet: Browse: /Game/Assets/Levels/GamePlay
+[2022.11.07-11.30.37:127][133]LogLoad: LoadMap: /Game/Assets/Levels/GamePlay
+[2022.11.07-11.30.37:127][133]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.30.37:128][133]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.30.37:129][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.30.37:176][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-11.30.37:178][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.07-11.30.37:179][133]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.30.37:181][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001335s)
+[2022.11.07-11.30.37:181][133]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-11.30.37:182][133]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2022.11.07-11.30.37:182][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002245s)
+[2022.11.07-11.30.37:182][133]LogAudio: Display: Audio Device (ID: 10) registered with world 'GamePlay'.
+[2022.11.07-11.30.37:182][133]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-11.30.37:183][133]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-12.30.37
+[2022.11.07-11.30.37:183][133]LogWorld: Bringing up level for play took: 0.001320
+[2022.11.07-11.30.37:191][133]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-11.30.37:191][133]LogLoad: Took 0.063186 seconds to LoadMap(/Game/Assets/Levels/UEDPIE_0_GamePlay)
+[2022.11.07-11.31.48:642][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-11.31.50:745][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-11.31.50:745][952]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-11.31.50:745][952]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-11.31.50:746][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.31.50:755][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-11.31.50:758][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-11.31.50:770][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-11.31.50:771][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-11.31.50:771][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-11.31.50:773][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-11.31.50:776][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.07-11.31.50:813][955]LogPlayLevel: Display: Destroying online subsystem :Context_64
