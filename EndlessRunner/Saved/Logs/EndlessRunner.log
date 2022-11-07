@@ -4665,3 +4665,105 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.07-10.29.48:904][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.11.07-10.29.48:904][305]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2022.11.07-10.29.48:904][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.31.59:937][811]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.07-10.31.59:940][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.07-10.31.59:940][811]PIE: New page: PIE session: GamePlay (7 nov. 2022 à 12:31:59)
+[2022.11.07-10.31.59:962][811]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.31.59:963][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2022.11.07-10.31.59:964][811]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-10.31.59:964][811]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2022.11.07-10.31.59:964][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002460s)
+[2022.11.07-10.31.59:999][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.11.07-10.32.00:009][811]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-10.32.00:009][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-10.32.00:009][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.07-10.32.00:009][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.07-10.32.00:009][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.07-10.32.00:009][811]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-10.32.00:014][811]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.07-10.32.00:014][811]LogAudioMixer: Display: 1: FrontRight
+[2022.11.07-10.32.00:017][811]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2022.11.07-10.32.00:017][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-10.32.00:017][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-10.32.00:017][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-10.32.00:018][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-10.32.00:018][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-10.32.00:018][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-10.32.00:018][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-10.32.00:018][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.07-10.32.00:018][811]LogInit: FAudioDevice initialized.
+[2022.11.07-10.32.00:018][811]LogAudio: Display: Audio Device (ID: 54) registered with world 'GamePlay'.
+[2022.11.07-10.32.00:027][811]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-10.32.00:027][811]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-11.32.00
+[2022.11.07-10.32.00:027][811]LogWorld: Bringing up level for play took: 0.000289
+[2022.11.07-10.32.00:027][811]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.11.07-10.32.00:036][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-10.32.00:036][811]PIE: Server logged in
+[2022.11.07-10.32.00:036][811]PIE: Play in editor total start time 0,097 seconds.
+[2022.11.07-10.32.09:774][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-10.32.14:782][580]LogNet: Browse: /Game/Assets/Levels/GamePlay
+[2022.11.07-10.32.14:782][580]LogLoad: LoadMap: /Game/Assets/Levels/GamePlay
+[2022.11.07-10.32.14:782][580]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.32.14:782][580]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-10.32.14:783][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.32.14:838][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-10.32.14:850][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.07-10.32.14:852][580]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.32.14:853][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001431s)
+[2022.11.07-10.32.14:854][580]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-10.32.14:854][580]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.11.07-10.32.14:854][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002355s)
+[2022.11.07-10.32.14:854][580]LogAudio: Display: Audio Device (ID: 54) registered with world 'GamePlay'.
+[2022.11.07-10.32.14:854][580]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-10.32.14:856][580]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-11.32.14
+[2022.11.07-10.32.14:856][580]LogWorld: Bringing up level for play took: 0.001444
+[2022.11.07-10.32.14:863][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-10.32.14:863][580]LogLoad: Took 0.081082 seconds to LoadMap(/Game/Assets/Levels/UEDPIE_0_GamePlay)
+[2022.11.07-10.32.50:048][800]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-10.32.55:058][401]LogNet: Browse: /Game/Assets/Levels/GamePlay
+[2022.11.07-10.32.55:058][401]LogLoad: LoadMap: /Game/Assets/Levels/GamePlay
+[2022.11.07-10.32.55:058][401]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.32.55:058][401]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-10.32.55:059][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.32.55:117][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-10.32.55:119][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.07-10.32.55:121][401]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.32.55:122][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2022.11.07-10.32.55:123][401]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.07-10.32.55:123][401]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2022.11.07-10.32.55:123][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002028s)
+[2022.11.07-10.32.55:123][401]LogAudio: Display: Audio Device (ID: 54) registered with world 'GamePlay'.
+[2022.11.07-10.32.55:123][401]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.07-10.32.55:125][401]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.07-11.32.55
+[2022.11.07-10.32.55:126][401]LogWorld: Bringing up level for play took: 0.002052
+[2022.11.07-10.32.55:133][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.07-10.32.55:133][401]LogLoad: Took 0.075397 seconds to LoadMap(/Game/Assets/Levels/UEDPIE_0_GamePlay)
+[2022.11.07-10.34.22:524][885]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.07-10.34.25:932][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-10.34.25:932][290]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.07-10.34.25:933][290]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-10.34.25:934][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.34.25:938][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-10.34.25:944][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.34.25:955][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-10.34.25:955][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-10.34.25:956][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-10.34.25:958][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-10.34.25:961][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.07-10.34.26:008][293]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.11.07-10.34.30:694][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.07-10.34.41:295][ 13]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.11.07-10.34.41:348][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.07-10.34.41:838][ 48]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacterDBDC608D4304202B3B7DDC8C972E4ACD.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.07-10.34.41:845][ 48]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.07-10.34.41:845][ 48]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.07-10.34.47:577][721]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-10.34.47:577][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-10.34.55:728][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
