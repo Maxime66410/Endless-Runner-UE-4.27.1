@@ -2993,3 +2993,10 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.07-11.31.50:773][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.11.07-11.31.50:776][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2022.11.07-11.31.50:813][955]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.11.07-11.41.49:633][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.07-11.41.49:638][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Levels/GamePlay' took 0.020
+[2022.11.07-11.41.49:638][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Models/Obstacle/Vehicle/SportRed] ([1] browsable assets)...
+[2022.11.07-11.41.49:641][229]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Models/Obstacle/Vehicle/SportRed.SportRed]
+[2022.11.07-11.41.49:641][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Models/Obstacle/Vehicle/SportRed]
+[2022.11.07-11.41.49:664][229]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SportRed_Auto167B8BF9344D300CF522DC2AEA2F49D34.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/Autosaves/Game/Assets/Models/Obstacle/Vehicle/SportRed_Auto1.uasset'
+[2022.11.07-11.41.49:664][229]LogFileHelpers: Auto-saving content packages took 0.026
