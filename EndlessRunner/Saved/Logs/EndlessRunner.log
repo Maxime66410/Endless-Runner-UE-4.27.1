@@ -1991,3 +1991,255 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.10-15.23.50:392][987]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.10-15.23.50:392][987]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
 [2022.11.10-15.23.50:392][987]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.10-15.24.32:943][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.10-15.24.33:924][728]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.10-15.24.33:982][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.10-15.24.33:993][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.10-15.24.34:008][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.10-15.24.34:018][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.10-15.24.37:237][ 61]LogContentBrowser: Deferred new asset file creation: BodyFlash_Inst
+[2022.11.10-15.24.37:253][ 61]LogContentBrowser: Creating deferred item: BodyFlash_Inst
+[2022.11.10-15.24.40:559][446]LogContentBrowser: Attempting asset rename: BodyFlash_Inst -> SonicBody
+[2022.11.10-15.24.40:559][446]LogContentBrowser: End creating deferred item BodyFlash_Inst
+[2022.11.10-15.24.42:882][702]LogContentBrowser: Deferred new asset file creation: BodyFlash_Inst
+[2022.11.10-15.24.42:894][702]LogContentBrowser: Creating deferred item: BodyFlash_Inst
+[2022.11.10-15.24.46:686][156]LogContentBrowser: Attempting asset rename: BodyFlash_Inst -> SonicChest
+[2022.11.10-15.24.46:687][156]LogContentBrowser: End creating deferred item BodyFlash_Inst
+[2022.11.10-15.24.50:797][510]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicChest042E6C6541BA3E974969D29355C4849E.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicChest.uasset'
+[2022.11.10-15.24.50:807][510]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicBody81C41CB845F5663B35BBDDB4FBDA6828.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicBody.uasset'
+[2022.11.10-15.24.50:854][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.10-15.24.50:865][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.10-15.24.50:881][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.10-15.24.50:892][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.10-15.24.50:949][510]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.24.50:949][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.24.50:949][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicBody.SonicBody
+[2022.11.10-15.24.52:455][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.10-15.24.53:408][669]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.10-15.24.53:468][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.10-15.24.53:486][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.10-15.24.53:497][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.10-15.24.54:281][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.10-15.24.55:191][747]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.10-15.24.55:242][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.10-15.24.55:256][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.10-15.24.55:266][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.10-15.24.58:350][ 89]LogContentBrowser: Deferred new asset file creation: BodyFlash_Inst
+[2022.11.10-15.24.58:366][ 89]LogContentBrowser: Creating deferred item: BodyFlash_Inst
+[2022.11.10-15.25.03:326][681]LogContentBrowser: Attempting asset rename: BodyFlash_Inst -> GigaChadBody
+[2022.11.10-15.25.03:326][681]LogContentBrowser: End creating deferred item BodyFlash_Inst
+[2022.11.10-15.25.05:406][910]LogContentBrowser: Deferred new asset file creation: ChestFlash_Inst
+[2022.11.10-15.25.05:422][910]LogContentBrowser: Creating deferred item: ChestFlash_Inst
+[2022.11.10-15.25.12:380][744]LogContentBrowser: Attempting asset rename: ChestFlash_Inst -> GigaChadChest
+[2022.11.10-15.25.12:381][744]LogContentBrowser: End creating deferred item ChestFlash_Inst
+[2022.11.10-15.25.16:059][ 91]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GigaChadChest2DE4F4BB4BC6A73ED1008C9FFBBB383F.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/GigaChadChest.uasset'
+[2022.11.10-15.25.16:069][ 91]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GigaChadBodyA7425E2949969FF34C0184AF7A144130.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/GigaChadBody.uasset'
+[2022.11.10-15.25.16:130][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.10-15.25.16:141][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.10-15.25.16:155][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.10-15.25.16:166][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.10-15.25.16:223][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.25.16:223][ 91]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadChest.GigaChadChest
+[2022.11.10-15.25.16:223][ 91]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadBody.GigaChadBody
+[2022.11.10-15.25.17:335][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.10-15.36.56:433][890]AssetReimport: New page: Outstanding source content changes 17:36:56
+[2022.11.10-15.36.56:434][890]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.png)
+[2022.11.10-15.36.56:505][891]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.png)
+[2022.11.10-15.36.56:544][892]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.png)
+[2022.11.10-15.36.56:585][893]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.png)
+[2022.11.10-15.36.56:665][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Height.png)
+[2022.11.10-15.36.56:759][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_BaseColor.png)
+[2022.11.10-15.36.56:857][896]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Roughness.png)
+[2022.11.10-15.36.56:950][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Metallic.png)
+[2022.11.10-15.36.57:026][898]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal.png)
+[2022.11.10-15.36.57:094][899]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Height.png)
+[2022.11.10-15.36.57:258][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo816960B2459154BFD47B4CADB2130C96.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.uasset'
+[2022.11.10-15.36.57:266][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo1FBD90484C8AC1174F716C83A17C1051.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.uasset'
+[2022.11.10-15.36.57:272][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogoBAD18A634DFE49BC61406F98D3D41464.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.uasset'
+[2022.11.10-15.36.57:285][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo012C2A8249B2FE46720929ACBFA8F577.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.uasset'
+[2022.11.10-15.36.57:292][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo511F6FDB4A2488DD02B2EA8CFB5861D6.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Height.uasset'
+[2022.11.10-15.36.57:310][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_BaseCo8AA234DB4AB6AEE33FB44CACC4ECD994.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_BaseColor.uasset'
+[2022.11.10-15.36.57:316][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Roughn008568AD4E76E71769386981155C1701.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Roughness.uasset'
+[2022.11.10-15.36.57:321][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Metall460FA8C34DDE75486538449434F359DB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Metallic.uasset'
+[2022.11.10-15.36.57:337][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_NormalF9D2A8FD4A08B71C691E3BB2BB2D8594.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal.uasset'
+[2022.11.10-15.36.57:344][900]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_HeightC2CBA68740DA8EDD7F8C00A298D1AAF4.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Height.uasset'
+[2022.11.10-15.36.57:430][901]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Height._SK_Mannequin_M_Male_Body_Height
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Metallic._SK_Mannequin_M_Male_Body_Metallic
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Roughness._SK_Mannequin_M_Male_Body_Roughness
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_BaseColor._SK_Mannequin_M_Male_Body_BaseColor
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Height._SK_Mannequin_M_UE4Man_ChestLogo_Height
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic._SK_Mannequin_M_UE4Man_ChestLogo_Metallic
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness._SK_Mannequin_M_UE4Man_ChestLogo_Roughness
+[2022.11.10-15.36.57:430][901]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor._SK_Mannequin_M_UE4Man_ChestLogo_BaseColor
+[2022.11.10-15.36.58:226][981]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (OODLE_AutoDXT, 1024X1024)
+[2022.11.10-15.36.58:251][982]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.10-15.36.58:915][ 54]LogTexture: Display: Building textures: _SK_Mannequin_M_Male_Body_Normal (OODLE_AutoDXT, 1024X1024)
+[2022.11.10-15.36.58:944][ 55]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.10-15.37.00:399][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Height.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_BaseColor.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Roughness.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Metallic.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal.
+[2022.11.10-15.37.00:400][219]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Height.
+[2022.11.10-15.37.01:749][358]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicBody.SonicBody
+[2022.11.10-15.37.02:309][402]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.37.08:728][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.10-15.37.08:743][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.10-15.37.08:747][ 11]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicBody9A0E6A064CFCB1D70362FB883A8C3E73.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicBody.uasset'
+[2022.11.10-15.37.08:754][ 11]AssetCheck: New page: Asset Save: SonicBody
+[2022.11.10-15.37.08:754][ 11]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicBody.SonicBody
+[2022.11.10-15.37.09:840][120]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.37.09:840][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.37.20:891][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.10-15.37.20:904][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.10-15.37.20:908][205]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicChestF7930E784DA360F0CE7F1DAA7E1DC6AD.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicChest.uasset'
+[2022.11.10-15.37.20:915][205]AssetCheck: New page: Asset Save: SonicChest
+[2022.11.10-15.37.20:915][205]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.37.23:319][458]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Normal6F932FC842518F01D0A93F82CC396FA2.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal.uasset'
+[2022.11.10-15.37.23:324][458]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo682F0B2C40DDA4EF211A778E65077F19.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.uasset'
+[2022.11.10-15.37.23:332][458]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.37.23:332][458]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.37.23:332][458]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.37.26:494][820]LogSlate: Window 'SonicChest' being destroyed
+[2022.11.10-15.37.26:505][820]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.37.26:505][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.37.27:269][905]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.10-15.37.27:273][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.10-15.37.27:273][905]PIE: New page: PIE session: GamePlay (10 nov. 2022 à 17:37:27)
+[2022.11.10-15.37.27:309][905]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.37.27:310][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2022.11.10-15.37.27:311][905]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.10-15.37.27:311][905]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2022.11.10-15.37.27:311][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002376s)
+[2022.11.10-15.37.27:325][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.10-15.37.27:326][905]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.10-15.37.27:326][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.10-15.37.27:326][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.10-15.37.27:326][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.10-15.37.27:326][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.10-15.37.27:326][905]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.10-15.37.27:331][905]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.10-15.37.27:332][905]LogAudioMixer: Display: 1: FrontRight
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Using Audio Device Casque (2- Realtek High Definition Audio)
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.10-15.37.27:335][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.10-15.37.27:335][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.10-15.37.27:336][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.10-15.37.27:336][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.10-15.37.27:336][905]LogInit: FAudioDevice initialized.
+[2022.11.10-15.37.27:336][905]LogAudio: Display: Audio Device (ID: 8) registered with world 'GamePlay'.
+[2022.11.10-15.37.27:344][905]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.10-15.37.27:344][905]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.10-16.37.27
+[2022.11.10-15.37.27:344][905]LogWorld: Bringing up level for play took: 0.000281
+[2022.11.10-15.37.27:344][905]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.11.10-15.37.27:352][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.10-15.37.27:352][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_Male_Body
+[2022.11.10-15.37.27:352][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_UE4Man_ChestLogo
+[2022.11.10-15.37.27:352][905]PIE: Server logged in
+[2022.11.10-15.37.27:353][905]PIE: Play in editor total start time 0,081 seconds.
+[2022.11.10-15.37.30:638][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.50:561][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Failed
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.37.56:603][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Failed
+[2022.11.10-15.38.04:353][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.38.04:353][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Clear
+[2022.11.10-15.38.04:353][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:353][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:353][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:354][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:354][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:354][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Update Bonus Graph:  UpdateBonus Node:  Add
+[2022.11.10-15.38.04:354][102]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Failed
+[2022.11.10-15.38.07:357][461]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-0.01 Y=612.78 Z=0.00 Location: X=-371.86 Y=26320.67 Z=103.05 Normal: X=0.01 Y=1.00 Z=0.00 PenetrationDepth:38.736 Actor:BP_Obstacle41_C_1 Component:VitreVehicle BoneName:None (0 other events since notify)
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Set Coins
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Set Coins
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Clear
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Clear
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Clear
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Clear
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Add
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SaveGame". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Set ActualSkin
+[2022.11.10-15.38.07:357][461]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonCharacter Function:  Save Data Graph:  SaveData Node:  Set ActualSkin
+[2022.11.10-15.38.07:357][461]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Failed
+[2022.11.10-15.38.12:364][ 62]LogNet: Browse: /Game/Assets/Levels/GamePlay
+[2022.11.10-15.38.12:364][ 62]LogLoad: LoadMap: /Game/Assets/Levels/GamePlay
+[2022.11.10-15.38.12:364][ 62]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.38.12:365][ 62]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.38.12:366][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.38.12:400][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-15.38.12:402][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.10-15.38.12:403][ 62]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.38.12:404][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2022.11.10-15.38.12:405][ 62]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.10-15.38.12:405][ 62]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2022.11.10-15.38.12:405][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.001991s)
+[2022.11.10-15.38.12:405][ 62]LogAudio: Display: Audio Device (ID: 8) registered with world 'GamePlay'.
+[2022.11.10-15.38.12:405][ 62]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.10-15.38.12:407][ 62]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.10-16.38.12
+[2022.11.10-15.38.12:407][ 62]LogWorld: Bringing up level for play took: 0.001666
+[2022.11.10-15.38.12:415][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.10-15.38.12:415][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_Male_Body
+[2022.11.10-15.38.12:415][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_UE4Man_ChestLogo
+[2022.11.10-15.38.12:415][ 62]LogLoad: Took 0.050432 seconds to LoadMap(/Game/Assets/Levels/UEDPIE_0_GamePlay)
+[2022.11.10-15.38.14:249][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.10-15.38.16:929][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-15.38.16:929][599]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.38.16:929][599]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.38.16:930][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.38.16:935][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.10-15.38.16:938][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.38.16:950][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-15.38.16:950][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-15.38.16:951][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-15.38.16:955][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.10-15.38.17:011][601]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.11.10-15.38.20:400][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.10-15.38.20:405][956]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlayCA5F30B344CF8E33C614DBA9FF659003.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay.umap'
+[2022.11.10-15.38.20:412][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/GamePlay_BuiltData" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset" SILENT=true
+[2022.11.10-15.38.20:416][956]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay_BuiltData3F6DB65D49589ADC0FF304BEB29A20D6.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset'
+[2022.11.10-15.38.20:422][956]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.38.20:422][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
+[2022.11.10-15.38.20:422][956]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
