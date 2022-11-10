@@ -1457,3 +1457,90 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.10-14.49.03:263][705]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2022.11.10-14.49.24:137][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2022.11.10-14.49.35:764][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.10-14.50.14:172][ 92]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.10-14.50.20:105][706]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.11.10-14.50.20:199][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.11.10-14.50.20:690][728]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter685917B040C4993389CB09B83CBBA653.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.10-14.50.20:701][728]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.10-14.50.20:701][728]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.10-14.50.34:003][273]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.11.10-14.50.34:091][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.11.10-14.50.34:566][307]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter107D9A8C4298D48AD967689DDD2DD7F7.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.10-14.50.34:576][307]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.10-14.50.34:576][307]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.10-14.50.45:049][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/GameMode/SaveData.SaveData
+[2022.11.10-14.51.02:661][485]BlueprintLog: New page: Compile SaveData
+[2022.11.10-14.51.02:707][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.11.10-14.51.03:443][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/GameMode/SaveData" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/GameMode/SaveData.uasset" SILENT=true
+[2022.11.10-14.51.03:445][562]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SaveDataAE55047C460F7FD39473EA9628246F0B.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/GameMode/SaveData.uasset'
+[2022.11.10-14.51.03:457][562]AssetCheck: New page: Asset Save: SaveData
+[2022.11.10-14.51.03:457][562]LogContentValidation: Display: Validating Blueprint /Game/Assets/GameMode/SaveData.SaveData
+[2022.11.10-14.51.04:287][656]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-14.51.04:287][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-14.51.45:684][ 64]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.11.10-14.51.45:773][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.11.10-14.51.46:327][103]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter4A60DF7B4C9231F13F4FC7A91EC34CBD.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.10-14.51.46:339][103]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.10-14.51.46:339][103]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.10-14.52.26:068][246]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.11.10-14.52.26:156][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.11.10-14.52.26:635][279]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter4E676C5E474337F1F4821E824A65C8A4.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.10-14.52.26:646][279]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.10-14.52.26:646][279]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.10-14.52.28:858][521]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.10-14.52.28:861][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.10-14.52.28:862][521]PIE: New page: PIE session: GamePlay (10 nov. 2022 à 16:52:28)
+[2022.11.10-14.52.28:899][521]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-14.52.28:901][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2022.11.10-14.52.28:901][521]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.10-14.52.28:901][521]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.11.10-14.52.28:901][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002274s)
+[2022.11.10-14.52.28:929][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.11.10-14.52.28:929][521]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.10-14.52.28:929][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.10-14.52.28:929][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.10-14.52.28:930][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.10-14.52.28:930][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.10-14.52.28:930][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.10-14.52.28:930][521]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.10-14.52.28:934][521]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.10-14.52.28:934][521]LogAudioMixer: Display: 1: FrontRight
+[2022.11.10-14.52.28:937][521]LogAudioMixer: Display: Using Audio Device Casque (2- Realtek High Definition Audio)
+[2022.11.10-14.52.28:938][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.10-14.52.28:938][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.10-14.52.28:938][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.10-14.52.28:938][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.10-14.52.28:938][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.10-14.52.28:938][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.10-14.52.28:939][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.10-14.52.28:939][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.10-14.52.28:939][521]LogInit: FAudioDevice initialized.
+[2022.11.10-14.52.28:939][521]LogAudio: Display: Audio Device (ID: 9) registered with world 'GamePlay'.
+[2022.11.10-14.52.28:944][521]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.10-14.52.28:944][521]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.10-15.52.28
+[2022.11.10-14.52.28:944][521]LogWorld: Bringing up level for play took: 0.000285
+[2022.11.10-14.52.28:944][521]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.11.10-14.52.28:953][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.10-14.52.28:953][521]PIE: Server logged in
+[2022.11.10-14.52.28:953][521]PIE: Play in editor total start time 0,092 seconds.
+[2022.11.10-14.52.31:156][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.10-14.52.31:156][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Save Success
+[2022.11.10-14.52.37:320][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-14.52.37:320][493]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-14.52.37:321][493]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-14.52.37:322][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-14.52.37:335][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.10-14.52.37:339][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-14.52.37:357][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-14.52.37:357][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-14.52.37:358][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-14.52.37:360][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-14.52.37:363][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.11.10-14.52.37:393][496]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.10-14.52.41:721][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
