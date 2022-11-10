@@ -1662,3 +1662,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.10-11.49.25:411][792]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter02130FB143466B4E03FB37B2948B33ED.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2022.11.10-11.49.25:421][792]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2022.11.10-11.49.25:422][792]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.10-11.49.43:630][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.11.10-11.49.43:730][700]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/ThirdPersonCharacter553150F54D9E530FE9D1CEA3A67CE8C0.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.11.10-11.49.43:741][700]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.11.10-11.49.43:741][700]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
