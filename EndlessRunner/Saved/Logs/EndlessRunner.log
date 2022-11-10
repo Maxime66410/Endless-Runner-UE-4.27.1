@@ -2243,3 +2243,177 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.11.10-15.38.20:422][956]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.10-15.38.20:422][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
 [2022.11.10-15.38.20:422][956]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.10-15.38.46:756][842]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.38.54:811][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.10-15.38.54:822][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.10-15.38.54:826][630]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicChest4F2C48094D6523591C6D638F66198AE8.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicChest.uasset'
+[2022.11.10-15.38.54:833][630]AssetCheck: New page: Asset Save: SonicChest
+[2022.11.10-15.38.54:833][630]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.38.55:659][715]LogSlate: Window 'SonicChest' being destroyed
+[2022.11.10-15.38.55:698][715]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.38.55:698][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.38.56:279][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.10-15.38.56:283][772]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlayA3FEF94C4F38E752D99024B71A602CD5.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay.umap'
+[2022.11.10-15.38.56:290][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/GamePlay_BuiltData" FILE="../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset" SILENT=true
+[2022.11.10-15.38.56:294][772]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GamePlay_BuiltDataA6D8D5474F9ABBCBE6786DBA6C09319E.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Levels/GamePlay_BuiltData.uasset'
+[2022.11.10-15.38.56:304][772]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.38.56:304][772]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Levels/GamePlay_BuiltData.GamePlay_BuiltData
+[2022.11.10-15.38.56:304][772]LogContentValidation: Display: Validating World /Game/Assets/Levels/GamePlay.GamePlay
+[2022.11.10-15.45.08:362][734]AssetReimport: New page: Outstanding source content changes 17:45:08
+[2022.11.10-15.45.08:363][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Height.png)
+[2022.11.10-15.45.08:435][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal.png)
+[2022.11.10-15.45.08:515][736]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Metallic.png)
+[2022.11.10-15.45.08:582][737]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Roughness.png)
+[2022.11.10-15.45.08:663][738]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_BaseColor.png)
+[2022.11.10-15.45.08:729][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Height.png)
+[2022.11.10-15.45.08:815][740]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.png)
+[2022.11.10-15.45.08:904][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.png)
+[2022.11.10-15.45.08:984][742]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.png)
+[2022.11.10-15.45.09:037][743]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.png)
+[2022.11.10-15.45.09:192][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_HeightE5603CD54DD3E9A358F3F8B46FC101C5.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Height.uasset'
+[2022.11.10-15.45.09:207][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Normal9E219A6042289BAA17A9FC99CEF567A1.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal.uasset'
+[2022.11.10-15.45.09:213][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Metall9EFEC76C4E918481A27927A086007F8B.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Metallic.uasset'
+[2022.11.10-15.45.09:219][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Roughn3B54DDE342BD8F4DA381CFA7F8413334.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Roughness.uasset'
+[2022.11.10-15.45.09:233][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_BaseCoD12C7B6640B595B60CC247AF33A24BBF.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_BaseColor.uasset'
+[2022.11.10-15.45.09:240][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo57B4AB4F48E022A927923B8BB1A9AFB0.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Height.uasset'
+[2022.11.10-15.45.09:254][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogoAF10BB8A47F5C89E51CCE9906853B797.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.uasset'
+[2022.11.10-15.45.09:259][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogoA907BE1B4773483CD3B963878F600BCA.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.uasset'
+[2022.11.10-15.45.09:265][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo683AB64041CFCC035148D4B6295026BB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.uasset'
+[2022.11.10-15.45.09:278][744]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo7FABAC9E40592CD4BF06EBB3229F7FDB.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.uasset'
+[2022.11.10-15.45.09:344][745]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness._SK_Mannequin_M_UE4Man_ChestLogo_Roughness
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic._SK_Mannequin_M_UE4Man_ChestLogo_Metallic
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Height._SK_Mannequin_M_UE4Man_ChestLogo_Height
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_BaseColor._SK_Mannequin_M_Male_Body_BaseColor
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Roughness._SK_Mannequin_M_Male_Body_Roughness
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Metallic._SK_Mannequin_M_Male_Body_Metallic
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Height._SK_Mannequin_M_Male_Body_Height
+[2022.11.10-15.45.09:344][745]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor._SK_Mannequin_M_UE4Man_ChestLogo_BaseColor
+[2022.11.10-15.45.12:330][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Height.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Metallic.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Roughness.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_BaseColor.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Height.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Metallic.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Roughness.
+[2022.11.10-15.45.12:331][ 95]AssetReimport: Importing new asset /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_BaseColor.
+[2022.11.10-15.45.12:487][112]LogTexture: Display: Building textures: _SK_Mannequin_M_Male_Body_Normal (OODLE_AutoDXT, 1024X1024)
+[2022.11.10-15.45.12:513][113]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.10-15.45.13:117][174]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (OODLE_AutoDXT, 1024X1024)
+[2022.11.10-15.45.13:153][175]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.10-15.45.15:995][491]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.16:000][491]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.11.10-15.45.19:175][793]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_NormalB3551A1A45C71C6401892CB4DC8835A0.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal.uasset'
+[2022.11.10-15.45.19:183][793]AssetCheck: New page: Asset Save: _SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.19:183][793]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.19:826][860]LogSlate: Window '_SK_Mannequin_M_Male_Body_Normal' being destroyed
+[2022.11.10-15.45.20:850][971]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.21:615][ 43]LogEditorFactories: Performing atomic reimport of [F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.png]
+[2022.11.10-15.45.21:615][ 43]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.png)
+[2022.11.10-15.45.21:617][ 43]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (BGRA8, 1024X1024)
+[2022.11.10-15.45.21:654][ 43]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (BGRA8, 1024X1024)
+[2022.11.10-15.45.21:668][ 43]LogEditorFactories: -- imported successfully
+[2022.11.10-15.45.25:431][363]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (BGRA8, 1024X1024)
+[2022.11.10-15.45.26:404][464]LogTexture: Display: Building textures: _SK_Mannequin_M_UE4Man_ChestLogo_Normal (OODLE_BC5, 1024X1024)
+[2022.11.10-15.45.26:427][464]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.10-15.45.26:427][464]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogo570D84B846FA6AA9421B159708D3EE32.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.uasset'
+[2022.11.10-15.45.26:435][464]AssetCheck: New page: Asset Save: _SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.26:435][464]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin03/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.27:021][520]LogSlate: Window '_SK_Mannequin_M_UE4Man_ChestLogo_Normal' being destroyed
+[2022.11.10-15.45.28:639][699]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.31:327][974]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_Male_Body_Normal410ACDE84FCF67037BDB43884E257327.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal.uasset'
+[2022.11.10-15.45.31:335][974]AssetCheck: New page: Asset Save: _SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.31:335][974]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_Male_Body_Normal._SK_Mannequin_M_Male_Body_Normal
+[2022.11.10-15.45.31:752][ 18]LogSlate: Window '_SK_Mannequin_M_Male_Body_Normal' being destroyed
+[2022.11.10-15.45.32:427][ 82]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.36:248][491]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/_SK_Mannequin_M_UE4Man_ChestLogoFF7212F142F63DF49FC6849A0ECEEE0F.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal.uasset'
+[2022.11.10-15.45.36:255][491]AssetCheck: New page: Asset Save: _SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.36:255][491]LogContentValidation: Display: Validating Texture2D /Game/Assets/Texture/Player/Skin02/_SK_Mannequin_M_UE4Man_ChestLogo_Normal._SK_Mannequin_M_UE4Man_ChestLogo_Normal
+[2022.11.10-15.45.38:804][744]LogSlate: Window '_SK_Mannequin_M_UE4Man_ChestLogo_Normal' being destroyed
+[2022.11.10-15.45.39:604][835]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.45.42:353][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.11.10-15.45.42:373][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.10-15.45.42:376][ 76]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/SonicChest5F9860AE4B833144A8814B97955BF5DA.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin02/SonicChest.uasset'
+[2022.11.10-15.45.42:384][ 76]AssetCheck: New page: Asset Save: SonicChest
+[2022.11.10-15.45.42:384][ 76]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin02/SonicChest.SonicChest
+[2022.11.10-15.45.42:730][116]LogSlate: Window 'SonicChest' being destroyed
+[2022.11.10-15.45.42:740][116]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.45.42:740][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.45.44:579][323]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadBody.GigaChadBody
+[2022.11.10-15.45.50:842][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.10-15.45.50:858][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.10-15.45.50:862][928]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GigaChadBodyDB52534A44C0054E56BF1FBF21C4A3C5.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/GigaChadBody.uasset'
+[2022.11.10-15.45.50:870][928]AssetCheck: New page: Asset Save: GigaChadBody
+[2022.11.10-15.45.50:870][928]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadBody.GigaChadBody
+[2022.11.10-15.45.51:313][976]LogSlate: Window 'GigaChadBody' being destroyed
+[2022.11.10-15.45.51:324][976]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.45.51:324][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.45.52:115][ 51]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadChest.GigaChadChest
+[2022.11.10-15.46.04:861][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.10-15.46.04:878][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.10-15.46.04:882][328]LogSavePackage: Moving '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Saved/GigaChadChestFB729B3E48667634E7A0BBA7A67944AE.tmp' to '../../../../../../Github/Endless-Runner-UE-4.27.1/EndlessRunner/Content/Assets/Texture/Player/Skin03/GigaChadChest.uasset'
+[2022.11.10-15.46.04:890][328]AssetCheck: New page: Asset Save: GigaChadChest
+[2022.11.10-15.46.04:890][328]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Texture/Player/Skin03/GigaChadChest.GigaChadChest
+[2022.11.10-15.46.05:366][376]LogSlate: Window 'GigaChadChest' being destroyed
+[2022.11.10-15.46.05:377][376]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.46.05:377][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.46.06:373][493]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.10-15.46.06:377][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.10-15.46.06:377][493]PIE: New page: PIE session: GamePlay (10 nov. 2022 à 17:46:06)
+[2022.11.10-15.46.06:418][493]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.46.06:419][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001387s)
+[2022.11.10-15.46.06:420][493]LogAIModule: Creating AISystem for world GamePlay
+[2022.11.10-15.46.06:420][493]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2022.11.10-15.46.06:420][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GamePlay.GamePlay to /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay (0.002308s)
+[2022.11.10-15.46.06:438][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.10-15.46.06:438][493]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.10-15.46.06:438][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.10-15.46.06:438][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.10-15.46.06:439][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.10-15.46.06:439][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.10-15.46.06:439][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.10-15.46.06:439][493]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.10-15.46.06:444][493]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.10-15.46.06:444][493]LogAudioMixer: Display: 1: FrontRight
+[2022.11.10-15.46.06:446][493]LogAudioMixer: Display: Using Audio Device Casque (2- Realtek High Definition Audio)
+[2022.11.10-15.46.06:447][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.10-15.46.06:447][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.10-15.46.06:447][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.10-15.46.06:447][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.10-15.46.06:447][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.10-15.46.06:447][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.10-15.46.06:448][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.10-15.46.06:448][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.10-15.46.06:448][493]LogInit: FAudioDevice initialized.
+[2022.11.10-15.46.06:448][493]LogAudio: Display: Audio Device (ID: 9) registered with world 'GamePlay'.
+[2022.11.10-15.46.06:452][493]LogLoad: Game class is 'EndlerRunner_C'
+[2022.11.10-15.46.06:452][493]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2022.11.10-16.46.06
+[2022.11.10-15.46.06:452][493]LogWorld: Bringing up level for play took: 0.000280
+[2022.11.10-15.46.06:452][493]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.11.10-15.46.06:461][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Data Loaded
+[2022.11.10-15.46.06:461][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_Male_Body
+[2022.11.10-15.46.06:461][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] M_UE4Man_ChestLogo
+[2022.11.10-15.46.06:461][493]PIE: Server logged in
+[2022.11.10-15.46.06:462][493]PIE: Play in editor total start time 0,085 seconds.
+[2022.11.10-15.46.26:049][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-15.46.26:049][550]LogWorld: BeginTearingDown for /Game/Assets/Levels/UEDPIE_0_GamePlay
+[2022.11.10-15.46.26:050][550]LogWorld: UWorld::CleanupWorld for GamePlay, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.46.26:051][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.46.26:058][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.10-15.46.26:061][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.46.26:076][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.10-15.46.26:076][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-15.46.26:077][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.10-15.46.26:081][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.10-15.46.26:118][554]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.11.10-15.46.27:233][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
