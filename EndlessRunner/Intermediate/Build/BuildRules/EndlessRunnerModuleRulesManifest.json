@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"E:\\Projet Unreal Engine\\Endless-Runner-UE-4.27.1\\EndlessRunner\\Intermediate\\Source\\EndlessRunner.Build.cs",
-		"E:\\Projet Unreal Engine\\Endless-Runner-UE-4.27.1\\EndlessRunner\\Intermediate\\Source\\EndlessRunner.Target.cs"
+		"F:\\Github\\Endless-Runner-UE-4.27.1\\EndlessRunner\\Intermediate\\Source\\EndlessRunner.Build.cs",
+		"F:\\Github\\Endless-Runner-UE-4.27.1\\EndlessRunner\\Intermediate\\Source\\EndlessRunner.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
