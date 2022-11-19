@@ -42,15 +42,15 @@
 			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
 			"Assets": [
 				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
+				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_1",
+				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_3",
+				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_2",
 				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_9",
 				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_8",
 				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_7",
 				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_6",
 				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_5",
-				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_4",
-				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_3",
-				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_2",
-				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_1"
+				"/Game/Assets/Models/Obstacle/Vehicle/Optics_ncl1_4"
 			]
 		},
 		{
@@ -96,6 +96,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
 			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -105,12 +111,6 @@
 			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -233,21 +233,8 @@
 			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_9",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_8",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_7",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_6",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_5",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_4",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_3",
-				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_2",
 				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_1",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/line1Mat",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/cylinder31_000_cylinder31_0031Mat",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/cylinder31_000_cylinder31_003Mat",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/box5211Mat",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/box21111112Mat",
-				"/Game/Assets/Models/Obstacle/Transport/Bus/box1Mat",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_3",
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object9Mat",
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object8Mat",
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object7Mat",
@@ -286,6 +273,19 @@
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object11Mat",
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object10Mat",
 				"/Game/Assets/Models/Obstacle/Transport/Bus/Object1Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/line1Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/cylinder31_000_cylinder31_0031Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/cylinder31_000_cylinder31_003Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/box5211Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/box21111112Mat",
+				"/Game/Assets/Models/Obstacle/Transport/Bus/box1Mat",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_2",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_9",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_8",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_7",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_6",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_5",
+				"/Game/Assets/Models/Obstacle/Vehicle/Glass_ncl1_4",
 				"/Game/Assets/Models/Obstacle/Vehicle/Wheel_ncl1_8",
 				"/Game/Assets/Models/Obstacle/Vehicle/Wheel_ncl1_7",
 				"/Game/Assets/Models/Obstacle/Vehicle/Wheel_ncl1_6",
@@ -382,35 +382,28 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"ShaderMapHash": "6EBAC302356C4EE15DFD5667B4A565EFDC9426E6",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
-			]
-		},
-		{
-			"ShaderMapHash": "8677D654463B99D2FC07253FFF812995D05A5B12",
-			"Assets": [
-				"/Game/Assets/Models/Obstacle/Construction/guardrail/M_guardrail",
-				"/Game/Assets/Models/Obstacle/Construction/guardrail/M_miscAnd"
-			]
-		},
-		{
-			"ShaderMapHash": "B68BB6E10F77C769EEF56EABBD7D80316886FFA2",
-			"Assets": [
-				"/Game/Assets/Materials/Road/M_RoadFloor"
+				"/Game/Assets/Models/Items/Coin/Coin1"
 			]
 		},
 		{
 			"ShaderMapHash": "5B5737555A4269B9DE1E39542C03F55FD39788C4",
 			"Assets": [
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_1",
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_3",
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body",
 				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_9",
 				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_8",
 				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_7",
 				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_6",
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_5",
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_3",
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_1",
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body"
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_5"
+			]
+		},
+		{
+			"ShaderMapHash": "A50D042236FFD9C7901C443783348381B8CFBC48",
+			"Assets": [
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Glass"
 			]
 		},
 		{
@@ -426,30 +419,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A50D042236FFD9C7901C443783348381B8CFBC48",
+			"ShaderMapHash": "C8DA9B851B47082B6A28A96C1779A6995F9070BE",
 			"Assets": [
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "FF513047EDDA4300184E4318E7B182921F246095",
-			"Assets": [
-				"/Game/Assets/Models/Obstacle/Transport/Truck/head_paint"
+				"/Game/Assets/Models/Obstacle/Transport/Bus/ObjectMat"
 			]
 		},
 		{
 			"ShaderMapHash": "29C9B24FFC5B506006732006FCD72096DFBC12D4",
 			"Assets": [
-				"/Game/Assets/Models/Obstacle/Transport/Truck/tyres_013",
-				"/Game/Assets/Models/Obstacle/Transport/Truck/tyres_012",
 				"/Game/Assets/Models/Obstacle/Transport/Truck/tyres_011",
-				"/Game/Assets/Models/Obstacle/Transport/Truck/Material_003"
-			]
-		},
-		{
-			"ShaderMapHash": "C6E75641C8EB54577E48F5AEABA8991829FB576F",
-			"Assets": [
-				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_4"
+				"/Game/Assets/Models/Obstacle/Transport/Truck/Material_003",
+				"/Game/Assets/Models/Obstacle/Transport/Truck/tyres_013",
+				"/Game/Assets/Models/Obstacle/Transport/Truck/tyres_012"
 			]
 		},
 		{
@@ -459,34 +440,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6EBAC302356C4EE15DFD5667B4A565EFDC9426E6",
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
 			"Assets": [
-				"/Game/Assets/Models/Items/Coin/Coin1"
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
-			"ShaderMapHash": "C8DA9B851B47082B6A28A96C1779A6995F9070BE",
+			"ShaderMapHash": "B68BB6E10F77C769EEF56EABBD7D80316886FFA2",
 			"Assets": [
-				"/Game/Assets/Models/Obstacle/Transport/Bus/ObjectMat"
+				"/Game/Assets/Materials/Road/M_RoadFloor"
 			]
 		},
 		{
-			"ShaderMapHash": "EDC2EDBC79360E0F37630D4634A7EE2C6807EE6A",
+			"ShaderMapHash": "FF513047EDDA4300184E4318E7B182921F246095",
 			"Assets": [
-				"/Game/Assets/Models/Obstacle/Construction/BasicFence/M_barriereBasic",
-				"/Game/Assets/Models/Obstacle/Construction/concrete-fence/M_concrete-fence"
+				"/Game/Assets/Models/Obstacle/Transport/Truck/head_paint"
 			]
 		},
 		{
-			"ShaderMapHash": "10850280371E3CD183B45784757F46C604574EC0",
+			"ShaderMapHash": "C6E75641C8EB54577E48F5AEABA8991829FB576F",
 			"Assets": [
-				"/Game/Assets/Models/Obstacle/Construction/Simpl-Metal-Fence/M_Fence"
-			]
-		},
-		{
-			"ShaderMapHash": "5A52E3C8A28BEE99692987E50817382B64BF732C",
-			"Assets": [
-				"/Game/Assets/Models/Obstacle/Construction/road-block/M_road-block"
+				"/Game/Assets/Models/Obstacle/Vehicle/Materials/Body_ncl1_4"
 			]
 		},
 		{
@@ -517,6 +491,85 @@
 			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
 			]
 		},
 		{
@@ -748,6 +801,32 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EDC2EDBC79360E0F37630D4634A7EE2C6807EE6A",
+			"Assets": [
+				"/Game/Assets/Models/Obstacle/Construction/BasicFence/M_barriereBasic",
+				"/Game/Assets/Models/Obstacle/Construction/concrete-fence/M_concrete-fence"
+			]
+		},
+		{
+			"ShaderMapHash": "10850280371E3CD183B45784757F46C604574EC0",
+			"Assets": [
+				"/Game/Assets/Models/Obstacle/Construction/Simpl-Metal-Fence/M_Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "5A52E3C8A28BEE99692987E50817382B64BF732C",
+			"Assets": [
+				"/Game/Assets/Models/Obstacle/Construction/road-block/M_road-block"
+			]
+		},
+		{
+			"ShaderMapHash": "8677D654463B99D2FC07253FFF812995D05A5B12",
+			"Assets": [
+				"/Game/Assets/Models/Obstacle/Construction/guardrail/M_guardrail",
+				"/Game/Assets/Models/Obstacle/Construction/guardrail/M_miscAnd"
+			]
+		},
+		{
 			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
@@ -760,82 +839,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
+			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
 			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Lamp"
-			]
-		},
-		{
-			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
-			]
-		},
-		{
-			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
-			]
-		},
-		{
-			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
-				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
-			]
-		},
-		{
-			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
-			]
-		},
-		{
-			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
-			]
-		},
-		{
-			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
-			]
-		},
-		{
-			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
-			]
-		},
-		{
-			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Walnut"
-			]
-		},
-		{
-			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Pine"
-			]
-		},
-		{
-			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Oak"
-			]
-		},
-		{
-			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
+				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
@@ -885,12 +891,6 @@
 			"ShaderMapHash": "F54906C80055D636BC39802D22A7721B7F62D200",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
