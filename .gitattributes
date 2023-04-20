@@ -1,2 +1,0 @@
-EndlessRunner.pdb filter=lfs diff=lfs merge=lfs -text
-EndlessRunner-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
